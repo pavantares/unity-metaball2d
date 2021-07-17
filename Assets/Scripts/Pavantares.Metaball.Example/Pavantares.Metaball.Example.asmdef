@@ -1,0 +1,16 @@
+{
+    "name": "Pavantares.Metaball.Example",
+    "rootNamespace": "Pavantares.Metaball.Example",
+    "references": [
+        "GUID:345fa116149f33a4ca83868bf8a55206"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
